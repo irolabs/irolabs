@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on mining industry
 - 🌱 I’m currently learning everything 😄
 - 👯 I’m looking to collaborate on everyone
-- 📫 How to reach me: 
 - 🥅 2021 Goals: Learning Python,Kotlin,Dart,JS
 
 ### Connect with me:
